@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+pillow>=10.0.0
+tkcalendar==1.6.1
+darkdetect>=0.8.0
+babel>=2.17.0

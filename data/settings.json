@@ -1,0 +1,12 @@
+{
+  "theme": "dark",
+  "appearance_mode": "dark",
+  "color_theme": "blue",
+  "window_geometry": "1536x773+128+128",
+  "auto_save": true,
+  "show_weekend": false,
+  "time_format": "24h",
+  "default_session_duration": 60,
+  "reminder_enabled": true,
+  "reminder_minutes": 15
+}
