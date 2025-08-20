@@ -1,4 +1,4 @@
-# 📅 Timetable Management System
+# 📅 Visual Scheduling
 
 A modern, user-friendly desktop application for managing academic timetables with a beautiful and intuitive interface.
 
